@@ -6,8 +6,8 @@
 - e-mail: tasha.craft@yandex.ru
 
 В январе 2023 г. я успешно закончила курс по Data Science от Яндекс.Практикум. Сейчас прохожу курсы по аналитике данных в Karpov.Courses и в активном поиске работы.
-Портфолио по Data science: https://github.com/tashacraft/yandex-practicum
-Портфолио по аналитике данных: https://github.com/tashacraft/karpov-courses
+<br />Портфолио по Data science: https://github.com/tashacraft/yandex-practicum
+<br />Портфолио по аналитике данных: https://github.com/tashacraft/karpov-courses
 
 Мои навыки:
 
