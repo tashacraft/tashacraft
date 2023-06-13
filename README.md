@@ -72,4 +72,14 @@
     <td>PostrgeSQL
     </td>
   </tr>
+  <tr>
+    <td>Анализ данных
+    </td>
+    <td>Визуализация
+    </td>
+    <td>Git
+    </td>
+    <td>ClickHouse
+    </td>
+  </tr>
   </table>
