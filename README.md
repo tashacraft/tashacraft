@@ -33,6 +33,16 @@
     </td>
   </tr>
   <tr>
+    <td>Scipy
+    </td>
+    <td>t-test Стьюдента
+    </td>
+    <td>ANOVA
+    </td>
+    <td>Pingouin
+    </td>
+  </tr>
+  <tr>
     <td>Catboost
     </td>
     <td>LightGBM
